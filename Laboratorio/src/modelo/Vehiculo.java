@@ -14,6 +14,7 @@ public class Vehiculo {
     String matricula;
     String marca;
     
+   
     public Vehiculo (String matricula, String marca ){
        this.matricula = matricula;
        this.marca = marca;

@@ -36,7 +36,6 @@ public class vehiculoCarga {
     }
 
     
-    
     @Override
     public String toString() {
         return "vehiculoCarga{" + "peso=" + peso + ", tipo=" + tipo + '}';

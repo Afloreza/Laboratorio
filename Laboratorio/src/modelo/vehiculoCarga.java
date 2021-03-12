@@ -35,6 +35,8 @@ public class vehiculoCarga {
         this.tipo = tipo;
     }
 
+    
+    
     @Override
     public String toString() {
         return "vehiculoCarga{" + "peso=" + peso + ", tipo=" + tipo + '}';

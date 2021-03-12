@@ -21,7 +21,7 @@ public class Laboratorio {
         vehiculos[2] = new vehiculoTransporte(21, 4, "I09UDE", "Mercedes");
         vehiculos[3] = new VehiculoCompetencia(200, "Y87HDB", "Toyota");
         vehiculos[4] = new VehiculoCompetencia(200, "U5H5TH", "Ford");
-        vehiculos[5] = new VehiculoCompetencia(200, "86BKY6", "Ferrari");
+        vehiculos[5] = new VehiculoCompetencia(200, "845BK4", "Ferrari");
         
         
         for (Vehiculo vehiculo1: vehiculos){

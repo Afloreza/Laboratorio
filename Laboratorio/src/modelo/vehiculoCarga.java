@@ -13,13 +13,13 @@ public class vehiculoCarga {
     
     String peso;
     String tipo;
-    String numero;
+    String Toma;
 
 
-    public vehiculoCarga(String peso, String tipo, String numero) {
+    public vehiculoCarga(String peso, String tipo, String Toma) {
         this.peso = peso;
         this.tipo = tipo;
-        this.numero = numero;
+        this.Toma = Toma;
     }
 
     public String getPeso() {

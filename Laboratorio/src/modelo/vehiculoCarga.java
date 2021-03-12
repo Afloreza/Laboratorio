@@ -11,4 +11,29 @@ package modelo;
  */
 public class vehiculoCarga {
     
+    String peso;
+    String tipo;
+
+    public vehiculoCarga(String peso, String tipo) {
+        this.peso = peso;
+        this.tipo = tipo;
+    }
+
+    public String getPeso() {
+        return peso;
+    }
+
+    public void setPeso(String peso) {
+        this.peso = peso;
+    }
+
+    public String getTipo() {
+        return tipo;
+    }
+
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
+    }
+    
+    
 }
